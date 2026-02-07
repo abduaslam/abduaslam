@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#0046C2; padding:40px; border-radius:15px; color:white;">
+<div align="center" style="background-color:#80ced6; padding:40px; border-radius:15px; color:white;">
   <h1>Hi 👋, I'm Abdalsalam</h1>
 
   <p>
