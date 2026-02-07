@@ -1,8 +1,8 @@
-<div align="center" style="background-color:#0206C2; padding:40px; border-radius:15px; color:white;">
+<div align="center" style="background-color:#0046C2; padding:40px; border-radius:15px; color:white;">
   <h1>Hi 👋, I'm Abdalsalam</h1>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Frontend+Developer;Data+Enthusiast;SQL+%7C+Python+%7C+Tableau+%7C+React" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=3F3F4F&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Frontend+Developer;Data+Enthusiast;SQL+%7C+Python+%7C+Tableau+%7C+React" />
   </p>
 
   <p>
@@ -21,22 +21,22 @@
 ---
 
 <div style="background-color:#f0f4f8; padding:20px; border-radius:10px;">
-## 👨‍💻 About Me
+##  About Me
 
-I’m **Abdalsalam**, an aspiring **Data Analyst & Frontend Developer** with a strong interest in **healthcare analytics** and **data-driven web applications**.
+I’m **Abdalsalam**, an aspiring **Data Analyst & Frontend Developer** and **data-driven web applications**.
 
-- 📊 Passionate about turning **raw data into insights**
-- 🌐 Enjoy building **clean, responsive dashboards**
-- 🎓 Google Data Analytics Professional Certificate holder
-- 🚀 Actively preparing for **data analyst job interviews**
+- Passionate about turning **raw data into insights**
+-  Enjoy building **clean, responsive dashboards**
+-  Google Data Analytics Professional Certificate holder
+-  Actively preparing for **data analyst job interviews**
 </div>
 
 ---
 
 <div style="background-color:#e8f6f3; padding:20px; border-radius:10px;">
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 📊 Data & Analytics
+###  Data & Analytics
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -49,7 +49,7 @@ I’m **Abdalsalam**, an aspiring **Data Analyst & Frontend Developer** with a s
 - Exploratory Data Analysis (EDA)  
 - Dashboard Design & Storytelling  
 
-### 🌐 Frontend Development
+###  Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -65,22 +65,22 @@ I’m **Abdalsalam**, an aspiring **Data Analyst & Frontend Developer** with a s
 
 ---
 
-<div style="background-color:#fff3e0; padding:20px; border-radius:10px;">
-## 📂 Featured Projects
+<div style="background-color:#f20f3e0; padding:20px; border-radius:10px;">
+##  Featured Projects
 
-### 🏥 Healthcare Data Analysis
+###  Healthcare Data Analysis
 - Cleaned and analyzed healthcare datasets  
 - Identified trends and operational insights  
 - Built visual dashboards for decision-making  
 
 **Tools:** Python, SQL, Tableau  
 
-### 📊 Data Visualization
+###  Data Visualization
 - KPI dashboards in Tableau  
 - Patient demographics dashboards  
 - Clear insights for non-technical users  
 
-### 🧮 SQL Practice
+###  SQL Practice
 - Real-world SQL scenarios  
 - Interview-focused queries  
 - Joins, Aggregations, Subqueries, CTEs  
@@ -99,7 +99,7 @@ I’m **Abdalsalam**, an aspiring **Data Analyst & Frontend Developer** with a s
 ---
 
 <div style="background-color:#f3e5f5; padding:20px; border-radius:10px;">
-## 🤝 Soft Skills
+## Soft Skills
 - Clear communication  
 - Strong problem-solving mindset  
 - Continuous improvement in professional English  
@@ -107,4 +107,4 @@ I’m **Abdalsalam**, an aspiring **Data Analyst & Frontend Developer** with a s
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
+ **Thank you for visiting my GitHub profile!**
